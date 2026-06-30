@@ -98,6 +98,37 @@ theepicbook
 
 ---
 
+1. Created Azure Resource Group
+
+2. Created Virtual Network and Subnet
+
+3. Created Ubuntu Virtual Machine
+
+4. Connected to VM using SSH
+
+5. Installed Git, Node.js, npm and Nginx
+
+6. Cloned the EpicBook Repository
+
+7. Installed project dependencies
+
+8. Created Azure Database for MySQL Flexible Server
+
+9. Imported database schema
+
+10. Imported seed data
+
+11. Updated config.json
+
+12. Enabled SSL connection for Azure MySQL
+
+13. Started the Node.js application
+
+14. Configured Nginx Reverse Proxy
+
+15. Tested application using VM Public IP
+
+    
 # 🚀 Deployment Steps
 
 ## Step 1
